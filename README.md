@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-amor-que-desafio-fronteras/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Un amor que desafió fronteras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amor-que-desafio-fronteras/) |
+| **Get License** | [Obtain a Music License for Un amor que desafió fronteras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amor-que-desafio-fronteras/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1cdd4479b61902c0c1b3d40a2270cf74fe690f324771c3ee53ac6872542e70db` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

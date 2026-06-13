@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un amor que desafió fronteras
+
+This log tracks the cryptographic history and versioning for the song **Un amor que desafió fronteras** (un-amor-que-desafio-fronteras).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:49:36.301385 | `v1` | `1cdd4479b61902c0c1b3d40a2270cf74fe690f324771c3ee53ac6872542e70db` | `be7a7f7b9bfdf5194b369c64408947b32c11e4897d8da7c03bbe1ccecea80e5c` | `2026-06-14_un-amor-que-desafio-fronteras-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
