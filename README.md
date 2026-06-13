@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-amor-que-desafio-fronteras/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Un amor que desafió fronteras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amor-que-desafio-fronteras/) |
+| **Get License** | [Secure Licensing Rights for Un amor que desafió fronteras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-amor-que-desafio-fronteras/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche está fría pero tú me quemas
+> Una mirada tuya y se me van los problemas
+> Dime que eres mía cruzando las fronteras
+> Tú eres mi obsesión, la nena que me altera
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
